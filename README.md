@@ -1,2 +1,2 @@
 # Crazy Ideas Here
-# Check out the branchs.
+# Check out the branches.
